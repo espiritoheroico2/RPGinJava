@@ -1,0 +1,33 @@
+[
+  {
+    "nome": "Grok",
+    "vida": 85,
+    "forca": 20,
+    "arma": {
+      "nome": "Espada Longa",
+      "dano": 10
+    }
+  },
+  {
+    "nome": "Magnus",
+    "vida": 60,
+    "forca": 25,
+    "arma": {
+      "nome": "Machado de Guerra",
+      "dano": 15
+    }
+  },
+  {
+    "nome": "Floqui",
+    "vida": 50,
+    "forca": 15,
+    "ataqueEspecial": "Cupir na Cara"
+  },
+  {
+    "nome": "Bagur",
+    "vida": 80,
+    "forca": 30,
+    "ataqueEspecial": "Fogo Ardente",
+    "mana": 30
+  }
+]
